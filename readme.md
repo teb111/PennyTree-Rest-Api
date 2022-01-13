@@ -1,6 +1,6 @@
 # Penny tree Rest Api
 
-> A CRUD web Application
+> A CRUD web Application built on EXPRESS, SEQUELIZE
 
 ## Setup
 
