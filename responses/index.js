@@ -9,7 +9,7 @@ const errorResponse = (res, error = {}, statusCode = 500) => {
   });
 };
 
-// handle all success
+// handle success func
 const successResponse = (res, message, statusCode = 200) => {
   res.status(statusCode).json({
     success: true,
